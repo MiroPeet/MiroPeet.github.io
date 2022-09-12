@@ -1,0 +1,87 @@
+{
+    "regular": [
+        {
+            "question": "Wie is mooier? Miro of Matthias?",
+            "id": "1"
+        },
+        {
+            "question": "Wie gaat er op de moment dry bij de gauntlet?",
+            "id": "2"
+        },
+        {
+            "question": "Wie heeft er nog steeds geen ranger boots?",
+            "id": "3"
+        },
+        {
+            "question": "Wie kan het snelste lopen?",
+            "id": "4"
+        },
+        {
+            "question": "Wie kan het beste drinken?",
+            "id": "5"
+        },
+        {
+            "question": "Wie is de betere petanquer?",
+            "id": "6"
+        },
+        {
+            "question": "Wie stinkt het hardst?",
+            "id": "7"
+        },
+        {
+            "question": "Wie heeft er het vaakst een vriendin?",
+            "id": "8"
+        },
+        {
+            "question": "Wie heeft de dikste billen?",
+            "id": "9"
+        },
+        {
+            "question": "Wie heeft het meeste xp op osrs?",
+            "id": "10"
+        }
+    ],
+    
+    "spicy": [
+        {
+            "question": "Wie zoent het best?",
+            "id": "1"
+        },
+        {
+            "question": "Wie heeft de meeste bedpartners gehad?",
+            "id": "2"
+        },
+        {
+            "question": "Wie mastrubeert het meest?",
+            "id": "3"
+        },
+        {
+            "question": "Wie zou het snelst een soa oplopen?",
+            "id": "4"
+        },
+        {
+            "question": "Wie is al eens betrapt geweest?",
+            "id": "5"
+        },
+        {
+            "question": "Wie heeft de zotste kink?",
+            "id": "6"
+        },
+        {
+            "question": "Wie is het beste in voorspel?",
+            "id": "7"
+        },
+        {
+            "question": "Wie heeft de meeste one night stands gehad?",
+            "id": "8"
+        },
+        {
+            "question": "Wie is aantrekkelijker?",
+            "id": "9"
+        },
+        {
+            "question": "Wie zou het wel eens in de poep doen?",
+            "id": "10"
+        }
+    ]
+}
