@@ -1,66 +1,74 @@
 {
     "regular": [
         {
-            "question": "Wie is mooier? Miro of Matthias?",
+            "question": "Who is the funniest?",
             "id": "1"
         },
         {
-            "question": "Wie gaat er op de moment dry bij de gauntlet?",
+            "question": "Who is the smartest?",
             "id": "2"
         },
         {
-            "question": "Wie heeft er nog steeds geen ranger boots?",
+            "question": "Who is the biggest eater?",
             "id": "3"
         },
         {
-            "question": "Wie kan het snelste lopen?",
+            "question": "Who is the most athletic?",
             "id": "4"
         },
         {
-            "question": "Wie kan het beste drinken?",
+            "question": "Who drinks the most?",
             "id": "5"
         },
         {
-            "question": "Wie is de betere petanquer?",
-            "id": "6"
+            "question": "Who is more likeable?",
+            "id": "6" 
         },
         {
-            "question": "Wie stinkt het hardst?",
+            "question": "Who has the longest nails?",
             "id": "7"
         },
         {
-            "question": "Wie heeft er het vaakst een vriendin?",
+            "question": "Who is the strongest?",
             "id": "8"
         },
         {
-            "question": "Wie heeft de dikste billen?",
+            "question": "Who is the better dancer?",
             "id": "9"
         },
         {
-            "question": "Wie heeft het meeste xp op osrs?",
+            "question": "Who has the most followers on instagram?",
             "id": "10"
+        },
+        {
+            "question": "Who speaks the most languages?",
+            "id": "11"
+        },
+        {
+            "question": "Who has the best music taste?",
+            "id": "12"
         }
     ],
     
     "spicy": [
         {
-            "question": "Wie zoent het best?",
+            "question": "Who is the best kisser?",
             "id": "1"
         },
         {
-            "question": "Wie heeft de meeste bedpartners gehad?",
+            "question": "Who has the most bed partners?",
             "id": "2"
         },
         {
-            "question": "Wie mastrubeert het meest?",
+            "question": "Who masturbates the most?",
             "id": "3"
         },
         {
-            "question": "Wie zou het snelst een soa oplopen?",
+            "question": "Who has the highest chance to get a soa?",
             "id": "4"
         },
         {
-            "question": "Wie is al eens betrapt geweest?",
+            "question": "Who has been caught having sex?",
             "id": "5"
         },
         {
@@ -68,20 +76,60 @@
             "id": "6"
         },
         {
-            "question": "Wie is het beste in voorspel?",
+            "question": "Who is the best in foreplay?",
             "id": "7"
         },
         {
-            "question": "Wie heeft de meeste one night stands gehad?",
+            "question": "Who has the most one night stands?",
             "id": "8"
         },
         {
-            "question": "Wie is aantrekkelijker?",
+            "question": "Who is prettier?",
             "id": "9"
         },
         {
-            "question": "Wie zou het wel eens in de poep doen?",
-            "id": "10"
-        }
+            "question": "Who would do it in the car?",
+            "id": "11"
+        },
+        {
+            "question": "Who would do it in public?",
+            "id": "12"
+        },
+        {
+            "question": "Who would do a threesome?",
+            "id": "13"
+        },
+        {
+            "question": "Who is more likely to have sex on the first date?",
+            "id": "14"
+        },
+        {
+            "question": "Who is more likely to kiss on the first date?",
+            "id": "15"
+        },
+        {
+            "question": "Who is more likely to kiss a person of the same gender?",
+            "id": "16"
+        },
+        {
+            "question": "Who is more likely to have sex on the first date?",
+            "id": "17"
+        },
+        {
+            "question": "Who is more likely to have kids?",
+            "id": "18"
+        },
+        {
+            "question": "Who is the biggest flirt?",
+            "id": "19"
+        },
+        {
+            "question": "Who is the horniest?",
+            "id": "20"
+        },
+        {
+            "question": "Who has the best style?",
+            "id": "21"
+        },
     ]
 }
