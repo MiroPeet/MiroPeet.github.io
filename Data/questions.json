@@ -41,7 +41,6 @@
             "id": "10"
         }
     ],
-    
     "spicy": [
         {
             "question": "Wie zoent het best?",
@@ -83,5 +82,12 @@
             "question": "Wie zou het wel eens in de poep doen?",
             "id": "10"
         }
-    ]
+    ],
+    "extended": [
+        {}
+    ],
+    "penalties": {
+        "correct": [],
+        "wrong": []
+    }
 }
