@@ -22,7 +22,7 @@
         },
         {
             "question": "Who is more likeable?",
-            "id": "6" 
+            "id": "6"
         },
         {
             "question": "Who has the longest nails?",
@@ -52,6 +52,9 @@
             "question": "Who is the better driver?",
             "id": "13"
         }
+    ],
+    "extended": [
+        {}
     ],
     "spicy": [
         {
@@ -134,5 +137,26 @@
             "question": "Who has the best style?",
             "id": "21"
         }
-    ]
+    ],
+    "penalties": {
+        "correct": [
+            "Oh dear, you guys suck! Kiss the person on your right on the lips or down your glass!",
+            "Oh blimey me! What are yer doing in me pockets?",
+            "Well well, you failed again? Everyone down their glass!",
+            "Oh my, do a cock fight with the person to your left, the loser downs his glass.",
+            "The people in front took a round! Run naked around the house or take 4 sips."
+        ],
+        "wrong": [
+            "Oh dear, you guys suck! The people in front take 6 sips!",
+            "Better luck next time, restart! And the two people in front take 8 sips!",
+            "Well well, you failed again? Two people in front down their glass!",
+            "Oh my, people in front do a cock fight, the loser downs his glass.",
+            "The people in front failed again! Run naked around the house or take 4 sips."
+        ],
+        "punishments": [
+            "take 10 sips.",
+            "down their glass.",
+            "take 1 sips."
+        ]
+    }
 }
