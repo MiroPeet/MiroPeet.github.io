@@ -147,10 +147,10 @@
     ],
     "wrong": [
         {"Oh dear, you guys suck! The people in front take 6 sips!"},
-         {"Better luck next time, restart! And the two people in front take 8 sips!"},
-         {"Well well, you failed again? Two people in front down their glass!"},
-         {"Oh my, people in front do a cock fight, the loser downs his glass."},
-         {"The people in front failed again! Run naked around the house or take 4 sips."}
+        {"Better luck next time, restart! And the two people in front take 8 sips!"},
+        {"Well well, you failed again? Two people in front down their glass!"},
+        {"Oh my, people in front do a cock fight, the loser downs his glass."},
+        {"The people in front failed again! Run naked around the house or take 4 sips."}
     ],
     "punishments": [
         "take 10 sips.",
