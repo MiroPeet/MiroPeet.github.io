@@ -54,7 +54,146 @@
         }
     ],
     "extended": [
-        {}
+        {
+            "question": "Who is the funniest?",
+            "id": "1"
+        },
+        {
+            "question": "Who is the smartest?",
+            "id": "2"
+        },
+        {
+            "question": "Who is the biggest eater?",
+            "id": "3"
+        },
+        {
+            "question": "Who is the most athletic?",
+            "id": "4"
+        },
+        {
+            "question": "Who drinks the most?",
+            "id": "5"
+        },
+        {
+            "question": "Who is more likeable?",
+            "id": "6"
+        },
+        {
+            "question": "Who has the longest nails?",
+            "id": "7"
+        },
+        {
+            "question": "Who is the strongest?",
+            "id": "8"
+        },
+        {
+            "question": "Who is the better dancer?",
+            "id": "9"
+        },
+        {
+            "question": "Who has the most followers on instagram?",
+            "id": "10"
+        },
+        {
+            "question": "Who speaks the most languages?",
+            "id": "11"
+        },
+        {
+            "question": "Who has the best music taste?",
+            "id": "12"
+        },
+        {
+            "question": "Who is the better driver?",
+            "id": "13"
+        },
+        {
+            "question": "Who would survive the longest in a zombie apocalypse?",
+            "id": "15"
+        },
+        {
+            "question": "Who would likely end up in prison?",
+            "id": "16"
+        },
+        {
+            "question": "Who could eat the most pizza?",
+            "id": "17"
+        },
+        {
+            "question": "Who would rather date an older person?",
+            "id": "18"
+        },
+        {
+            "question": "Who is the biggest gamer?",
+            "id": "19"
+        },
+        {
+            "question": "Who has the better fashion style?",
+            "id": "20"
+        },
+        {
+            "question": "Who spends the longest time in the bathroom?",
+            "id": "21"
+        },
+        {
+            "question": "Who has traveld the most?",
+            "id": "21"
+        },
+        {
+            "question": "Who is the least scared?",
+            "id": "22"
+        },
+        {
+            "question": "Who would win in a boxingmatch?",
+            "id": "23"
+        },
+        {
+            "question": "Who would most likely cry during an emotional movie?",
+            "id": "24"
+        },
+        {
+            "question": "Who is, or was, the laziest student?",
+            "id": "25"
+        },
+        {
+            "question": "Who eats the most vegetables?",
+            "id": "26"
+        },
+        {
+            "question": "Who has the funnier laugh?",
+            "id": "27"
+        },
+        {
+            "question": "Who can drink the most?",
+            "id": "28"
+        },
+        {
+            "question": "Who gets drunk the fastest?",
+            "id": "29"
+        },
+        {
+            "question": "Who eats the most fast food?",
+            "id": "30"
+        },
+        {
+            "question": "",
+            "id": "31"
+        },
+        {
+            "question": "",
+            "id": "32"
+        },
+        {
+            "question": "",
+            "id": "33"
+        },
+        {
+            "question": "",
+            "id": "34"
+        },
+        {
+            "question": "",
+            "id": "35"
+        }
     ],
     "spicy": [
         {
@@ -134,7 +273,7 @@
             "id": "20"
         },
         {
-            "question": "Who has the best style?",
+            "question": "",
             "id": "21"
         }
     ],
@@ -155,6 +294,7 @@
     "punishments": [
         "take 10 sips.",
         "down their glass.",
-        "take 1 sips."
-    ]    
+        "take 1 sips.",
+        "try to down his/her glass withouth using their hands."
+    ]
 }
