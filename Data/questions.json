@@ -1,17 +1,17 @@
 {
     "correct": [
-        "Oh dear, you guys suck! Kiss the person on your right on the lips or down your glass!",
-        "Oh blimey me! What are yer doing in me pockets?",
-        "Oh dear, you guys suck! Kiss the person on your right on the lips or down your glass!",
-        "Oh dear, you guys suck! Kiss the person on your right on the lips or down your glass!",
-        "The people in front took a round! Run naked around the house or take 4 sips."
+        "The people in the front were correct! The others have to take 5 sips.",
+        "The people in the front were correct! The others have to take 7 sips.",
+        "The people in the front were correct! The others have to take 3 sips.",
+        "The people in the front were correct! They may give out 10 sips.",
+        "The people in the front were correct! The others have to take 2 sips."
     ],
     "wrong": [
-        "Oh dear, you guys suck! The people in front take 6 sips!",
-        "Better luck next time, restart! And the two people in front take 8 sips!",
-        "Well well, you failed again? Two people in front down their glass!",
-        "Oh my, people in front do a cock fight, the loser downs his glass.",
-        "The people in front failed again! Run naked around the house or take 4 sips."
+        "The people in the front were wrong! They have to take 5 sips.",
+        "The people in the front were wrong! They have to take 8 sips.",
+        "The people in the front were wrong! They have to down their glass.",
+        "The people in the front were wrong! They have to take 4 sips.",
+        "The people in the front were wrong! They have to take 3 sips."
     ],
     "punishments": [
         "take 10 sips.",
@@ -227,10 +227,10 @@
             }
         ],
         "penalties": [
-            "take 10 sips.",
-            "down their glass.",
-            "take 1 sip.",
-            "try to down his/her glass withouth using their hands."
+            "lick their partner on the cheek or take 7 sips each.",
+            "show their ass or take 6 sips.",
+            "take 8 sips each.",
+            "do a cartwheel or take 7 sips."
         ]
     }, 
 
@@ -318,10 +318,10 @@
             }
         ],
         "penalties": [
-            "take 10 sips.",
-            "down their glass.",
-            "take 1 sip.",
-            "try to down his/her glass withouth using their hands."
+            "take of 1 piece of clothing or take 8 sips.",
+            "show a nipple or take 5 sips.",
+            "kiss someone on the mouth or take 6 sips.",
+            "do a truth or dare or take 8 sips."
         ]
     }
 
