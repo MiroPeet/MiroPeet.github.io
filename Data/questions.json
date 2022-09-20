@@ -1,282 +1,4 @@
 {
-    "regular": [
-        {
-            "question": "Who is the funniest?",
-            "id": "1"
-        },
-        {
-            "question": "Who is the smartest?",
-            "id": "2"
-        },
-        {
-            "question": "Who is the biggest eater?",
-            "id": "3"
-        },
-        {
-            "question": "Who is the most athletic?",
-            "id": "4"
-        },
-        {
-            "question": "Who drinks the most?",
-            "id": "5"
-        },
-        {
-            "question": "Who is more likeable?",
-            "id": "6"
-        },
-        {
-            "question": "Who has the longest nails?",
-            "id": "7"
-        },
-        {
-            "question": "Who is the strongest?",
-            "id": "8"
-        },
-        {
-            "question": "Who is the better dancer?",
-            "id": "9"
-        },
-        {
-            "question": "Who has the most followers on instagram?",
-            "id": "10"
-        },
-        {
-            "question": "Who speaks the most languages?",
-            "id": "11"
-        },
-        {
-            "question": "Who has the best music taste?",
-            "id": "12"
-        },
-        {
-            "question": "Who is the better driver?",
-            "id": "13"
-        }
-    ],
-    "extended": [
-        {
-            "question": "Who is the funniest?",
-            "id": "1"
-        },
-        {
-            "question": "Who is the smartest?",
-            "id": "2"
-        },
-        {
-            "question": "Who is the biggest eater?",
-            "id": "3"
-        },
-        {
-            "question": "Who is the most athletic?",
-            "id": "4"
-        },
-        {
-            "question": "Who drinks the most?",
-            "id": "5"
-        },
-        {
-            "question": "Who is more likeable?",
-            "id": "6"
-        },
-        {
-            "question": "Who has the longest nails?",
-            "id": "7"
-        },
-        {
-            "question": "Who is the strongest?",
-            "id": "8"
-        },
-        {
-            "question": "Who is the better dancer?",
-            "id": "9"
-        },
-        {
-            "question": "Who has the most followers on instagram?",
-            "id": "10"
-        },
-        {
-            "question": "Who speaks the most languages?",
-            "id": "11"
-        },
-        {
-            "question": "Who has the best music taste?",
-            "id": "12"
-        },
-        {
-            "question": "Who is the better driver?",
-            "id": "13"
-        },
-        {
-            "question": "Who would survive the longest in a zombie apocalypse?",
-            "id": "15"
-        },
-        {
-            "question": "Who would likely end up in prison?",
-            "id": "16"
-        },
-        {
-            "question": "Who could eat the most pizza?",
-            "id": "17"
-        },
-        {
-            "question": "Who would rather date an older person?",
-            "id": "18"
-        },
-        {
-            "question": "Who is the biggest gamer?",
-            "id": "19"
-        },
-        {
-            "question": "Who has the better fashion style?",
-            "id": "20"
-        },
-        {
-            "question": "Who spends the longest time in the bathroom?",
-            "id": "21"
-        },
-        {
-            "question": "Who has traveld the most?",
-            "id": "21"
-        },
-        {
-            "question": "Who is the least scared?",
-            "id": "22"
-        },
-        {
-            "question": "Who would win in a boxingmatch?",
-            "id": "23"
-        },
-        {
-            "question": "Who would most likely cry during an emotional movie?",
-            "id": "24"
-        },
-        {
-            "question": "Who is, or was, the laziest student?",
-            "id": "25"
-        },
-        {
-            "question": "Who eats the most vegetables?",
-            "id": "26"
-        },
-        {
-            "question": "Who has the funnier laugh?",
-            "id": "27"
-        },
-        {
-            "question": "Who can drink the most?",
-            "id": "28"
-        },
-        {
-            "question": "Who gets drunk the fastest?",
-            "id": "29"
-        },
-        {
-            "question": "Who eats the most fast food?",
-            "id": "30"
-        },
-        {
-            "question": "",
-            "id": "31"
-        },
-        {
-            "question": "",
-            "id": "32"
-        },
-        {
-            "question": "",
-            "id": "33"
-        },
-        {
-            "question": "",
-            "id": "34"
-        },
-        {
-            "question": "",
-            "id": "35"
-        }
-    ],
-    "spicy": [
-        {
-            "question": "Who is the best kisser?",
-            "id": "1"
-        },
-        {
-            "question": "Who has the most bed partners?",
-            "id": "2"
-        },
-        {
-            "question": "Who masturbates the most?",
-            "id": "3"
-        },
-        {
-            "question": "Who has the highest chance to get a soa?",
-            "id": "4"
-        },
-        {
-            "question": "Who has been caught having sex?",
-            "id": "5"
-        },
-        {
-            "question": "Wie heeft de zotste kink?",
-            "id": "6"
-        },
-        {
-            "question": "Who is the best in foreplay?",
-            "id": "7"
-        },
-        {
-            "question": "Who has the most one night stands?",
-            "id": "8"
-        },
-        {
-            "question": "Who is prettier?",
-            "id": "9"
-        },
-        {
-            "question": "Who would do it in the car?",
-            "id": "11"
-        },
-        {
-            "question": "Who would do it in public?",
-            "id": "12"
-        },
-        {
-            "question": "Who would do a threesome?",
-            "id": "13"
-        },
-        {
-            "question": "Who is more likely to have sex on the first date?",
-            "id": "14"
-        },
-        {
-            "question": "Who is more likely to kiss on the first date?",
-            "id": "15"
-        },
-        {
-            "question": "Who is more likely to kiss a person of the same gender?",
-            "id": "16"
-        },
-        {
-            "question": "Who is more likely to have sex on the first date?",
-            "id": "17"
-        },
-        {
-            "question": "Who is more likely to have kids?",
-            "id": "18"
-        },
-        {
-            "question": "Who is the biggest flirt?",
-            "id": "19"
-        },
-        {
-            "question": "Who is the horniest?",
-            "id": "20"
-        },
-        {
-            "question": "",
-            "id": "21"
-        }
-    ],
     "correct": [
         "Oh dear, you guys suck! Kiss the person on your right on the lips or down your glass!",
         "Oh blimey me! What are yer doing in me pockets?",
@@ -298,7 +20,7 @@
         "try to down his/her glass withouth using their hands."
     ],
 
-    "try": {
+    "regular": {
         "questions": [
             {
                 "question": "Who is the funniest?",
@@ -327,12 +49,278 @@
             {
                 "question": "Who has the longest nails?",
                 "id": "7"
+            },
+            {
+                "question": "Who is the strongest?",
+                "id": "8"
+            },
+            {
+                "question": "Who is the better dancer?",
+                "id": "9"
+            },
+            {
+                "question": "Who has the most followers on instagram?",
+                "id": "10"
+            },
+            {
+                "question": "Who speaks the most languages?",
+                "id": "11"
+            },
+            {
+                "question": "Who has the best music taste?",
+                "id": "12"
+            },
+            {
+                "question": "Who is the better driver?",
+                "id": "13"
             }
         ],
         "penalties": [
             "take 10 sips.",
             "down their glass.",
-            "take 1 sips.",
+            "take 1 sip.",
+            "try to down his/her glass withouth using their hands."
+        ]
+    },
+
+    "extended": {
+        "questions": [
+            {
+                "question": "Who is the funniest?",
+                "id": "1"
+            },
+            {
+                "question": "Who is the smartest?",
+                "id": "2"
+            },
+            {
+                "question": "Who is the biggest eater?",
+                "id": "3"
+            },
+            {
+                "question": "Who is the most athletic?",
+                "id": "4"
+            },
+            {
+                "question": "Who drinks the most?",
+                "id": "5"
+            },
+            {
+                "question": "Who is more likeable?",
+                "id": "6"
+            },
+            {
+                "question": "Who has the longest nails?",
+                "id": "7"
+            },
+            {
+                "question": "Who is the strongest?",
+                "id": "8"
+            },
+            {
+                "question": "Who is the better dancer?",
+                "id": "9"
+            },
+            {
+                "question": "Who has the most followers on instagram?",
+                "id": "10"
+            },
+            {
+                "question": "Who speaks the most languages?",
+                "id": "11"
+            },
+            {
+                "question": "Who has the best music taste?",
+                "id": "12"
+            },
+            {
+                "question": "Who is the better driver?",
+                "id": "13"
+            },
+            {
+                "question": "Who would survive the longest in a zombie apocalypse?",
+                "id": "15"
+            },
+            {
+                "question": "Who would likely end up in prison?",
+                "id": "16"
+            },
+            {
+                "question": "Who could eat the most pizza?",
+                "id": "17"
+            },
+            {
+                "question": "Who would rather date an older person?",
+                "id": "18"
+            },
+            {
+                "question": "Who is the biggest gamer?",
+                "id": "19"
+            },
+            {
+                "question": "Who has the better fashion style?",
+                "id": "20"
+            },
+            {
+                "question": "Who spends the longest time in the bathroom?",
+                "id": "21"
+            },
+            {
+                "question": "Who has traveld the most?",
+                "id": "21"
+            },
+            {
+                "question": "Who is the least scared?",
+                "id": "22"
+            },
+            {
+                "question": "Who would win in a boxingmatch?",
+                "id": "23"
+            },
+            {
+                "question": "Who would most likely cry during an emotional movie?",
+                "id": "24"
+            },
+            {
+                "question": "Who is, or was, the laziest student?",
+                "id": "25"
+            },
+            {
+                "question": "Who eats the most vegetables?",
+                "id": "26"
+            },
+            {
+                "question": "Who has the funnier laugh?",
+                "id": "27"
+            },
+            {
+                "question": "Who can drink the most?",
+                "id": "28"
+            },
+            {
+                "question": "Who gets drunk the fastest?",
+                "id": "29"
+            },
+            {
+                "question": "Who eats the most fast food?",
+                "id": "30"
+            },
+            {
+                "question": "",
+                "id": "31"
+            },
+            {
+                "question": "",
+                "id": "32"
+            },
+            {
+                "question": "",
+                "id": "33"
+            },
+            {
+                "question": "",
+                "id": "34"
+            },
+            {
+                "question": "",
+                "id": "35"
+            }
+        ],
+        "penalties": [
+            "take 10 sips.",
+            "down their glass.",
+            "take 1 sip.",
+            "try to down his/her glass withouth using their hands."
+        ]
+    }, 
+
+    "spicy": {
+        "questions": [
+            {
+                "question": "Who is the best kisser?",
+                "id": "1"
+            },
+            {
+                "question": "Who has the most bed partners?",
+                "id": "2"
+            },
+            {
+                "question": "Who masturbates the most?",
+                "id": "3"
+            },
+            {
+                "question": "Who has the highest chance to get a soa?",
+                "id": "4"
+            },
+            {
+                "question": "Who has been caught having sex?",
+                "id": "5"
+            },
+            {
+                "question": "Wie heeft de zotste kink?",
+                "id": "6"
+            },
+            {
+                "question": "Who is the best in foreplay?",
+                "id": "7"
+            },
+            {
+                "question": "Who has the most one night stands?",
+                "id": "8"
+            },
+            {
+                "question": "Who is prettier?",
+                "id": "9"
+            },
+            {
+                "question": "Who would do it in the car?",
+                "id": "11"
+            },
+            {
+                "question": "Who would do it in public?",
+                "id": "12"
+            },
+            {
+                "question": "Who would do a threesome?",
+                "id": "13"
+            },
+            {
+                "question": "Who is more likely to have sex on the first date?",
+                "id": "14"
+            },
+            {
+                "question": "Who is more likely to kiss on the first date?",
+                "id": "15"
+            },
+            {
+                "question": "Who is more likely to kiss a person of the same gender?",
+                "id": "16"
+            },
+            {
+                "question": "Who is more likely to have sex on the first date?",
+                "id": "17"
+            },
+            {
+                "question": "Who is more likely to have kids?",
+                "id": "18"
+            },
+            {
+                "question": "Who is the biggest flirt?",
+                "id": "19"
+            },
+            {
+                "question": "Who is the horniest?",
+                "id": "20"
+            },
+            {
+                "question": "Who would do it in a church?",
+                "id": "21"
+            }
+        ],
+        "penalties": [
+            "take 10 sips.",
+            "down their glass.",
+            "take 1 sip.",
             "try to down his/her glass withouth using their hands."
         ]
     }
