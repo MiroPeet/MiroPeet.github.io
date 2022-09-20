@@ -13,13 +13,7 @@
         "The people in the front were wrong! They have to take 4 sips.",
         "The people in the front were wrong! They have to take 3 sips."
     ],
-    "punishments": [
-        "take 10 sips.",
-        "down their glass.",
-        "take 1 sips.",
-        "try to down his/her glass withouth using their hands."
-    ],
-
+    
     "regular": {
         "questions": [
             {
