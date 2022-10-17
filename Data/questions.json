@@ -85,9 +85,15 @@
             ""
 
         ],
-        "correct": []
+        
+        "correct": [
+            "take 3 sips.",
+            "take 2 sips.",
+            "take 1 sip.",
+            "take 4 sips."
+        ]
     },
-    
+
     "brutal": {
         "questions": [
             {
