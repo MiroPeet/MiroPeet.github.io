@@ -1,13 +1,14 @@
 {
     "correct": [
-        "5 sips.",
-        "7 sips.",
-        "3 sips.",
-        "8 sips.",
-        "2 sips.",
-        "1 sip.",
-        "4 sips.",
-        "6 sips."
+        "take 5 sips.",
+        "take 7 sips.",
+        "take 3 sips.",
+        "take 8 sips.",
+        "take 2 sips.",
+        "take 1 sip.",
+        "take 4 sips.",
+        "take 6 sips.",
+        "down half their glass."
     ],
         
     "regular": {
@@ -66,10 +67,16 @@
             }
         ],
         "penalties": [
-            "take 10 sips.",
-            "down their glass.",
-            "take 1 sip.",
-            "try to down his/her glass withouth using their hands."
+            "give the person to your right a 'wet willy' ",
+            "lick someones armpit ",
+            "call a family member on your phone and ask how their day was ",
+            "try to down his/her glass withouth using their hands ",
+            "order a pizza ",
+            "do a TikTok dance or ",
+            "go on Facebook and like 5 pictures of the first person you see ",
+            "do the macarena ",
+            "eat a bit of hot sauce "
+            
         ]
     },
 
@@ -217,10 +224,18 @@
             }
         ],
         "penalties": [
-            "lick their partner on the cheek or take 7 sips each.",
-            "show their ass or take 6 sips.",
-            "take 8 sips each.",
-            "do a cartwheel or take 7 sips."
+            "lick someone on the cheek ",
+            "show their ass ",
+            "do a cartwheel ", 
+            "give the person to your right a 'wet willy' ",
+            "lick someones armpit ",
+            "call a family member on your phone and ask how their day was ",
+            "try to down his/her glass withouth using their hands ",
+            "order a pizza ",
+            "do a TikTok dance or ",
+            "go on Facebook and like 5 pictures of the first person you see ",
+            "do the macarena ",
+            "eat a bit of hot sauce "
         ]
     }, 
 
@@ -308,10 +323,13 @@
             }
         ],
         "penalties": [
-            "take of 1 piece of clothing or take 8 sips.",
-            "show a nipple or take 5 sips.",
-            "kiss someone on the mouth or take 6 sips.",
-            "do a truth or dare or take 8 sips."
+            "take of 1 piece of clothing ",
+            "show a nipple ",
+            "kiss someone on the mouth ",
+            "do a truth or dare ",
+            "do your best twerk dance ",
+            "show your favorite sex postion ",
+            "eat a piece of fruit in the most seducing manner "
         ]
     }
 
