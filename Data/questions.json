@@ -1,16 +1,4 @@
 {
-    "correct": [
-        "take 5 sips.",
-        "take 7 sips.",
-        "take 3 sips.",
-        "take 8 sips.",
-        "take 2 sips.",
-        "take 1 sip.",
-        "take 4 sips.",
-        "take 6 sips.",
-        "down half their glass."
-    ],
-        
     "regular": {
         "questions": [
             {
@@ -67,20 +55,21 @@
             }
         ],
         "penalties": [
-            "give the person to your right a 'wet willy' ",
-            "lick someones armpit ",
             "call a family member on your phone and ask how their day was ",
             "try to down his/her glass withouth using their hands ",
             "order a pizza ",
             "do a TikTok dance or ",
             "go on Facebook and like 5 pictures of the first person you see ",
             "do the macarena ",
-            "eat a bit of hot sauce "
-            
-        ]
+            "eat a bit of hot sauce ",
+            "try to lick your elbow ",
+            "do 15 push-ups ",
+            "do 20 sit-ups ",
+            " "
+        ],
+        "correct": []
     },
-
-    "extended": {
+    "brutal": {
         "questions": [
             {
                 "question": "Who is the funniest?",
@@ -226,7 +215,7 @@
         "penalties": [
             "lick someone on the cheek ",
             "show their ass ",
-            "do a cartwheel ", 
+            "do a cartwheel ",
             "give the person to your right a 'wet willy' ",
             "lick someones armpit ",
             "call a family member on your phone and ask how their day was ",
@@ -235,10 +224,18 @@
             "do a TikTok dance or ",
             "go on Facebook and like 5 pictures of the first person you see ",
             "do the macarena ",
-            "eat a bit of hot sauce "
+            "eat a bit of hot sauce ",
+            ""
+        ],
+        "correct": [
+            "take 4 sips.",
+            "take 5 sips.",
+            "take 6 sips.",
+            "take 7 sips.",
+            "take 8 sips.",
+            "down half their glass."
         ]
-    }, 
-
+    },
     "spicy": {
         "questions": [
             {
@@ -330,9 +327,12 @@
             "do your best twerk dance ",
             "show your favorite sex postion ",
             "eat a piece of fruit in the most seducing manner "
+        ],
+        "correct": [
+            "take 3 sips.",
+            "take 2 sips.",
+            "take 1 sip.",
+            "take 4 sips."
         ]
     }
-
-    
 }
-
