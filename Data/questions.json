@@ -62,7 +62,7 @@
             "go on Facebook and like 5 pictures of the first person you see ",
             "do the macarena ",
             "eat a bit of hot sauce ",
-            "try to lick your elbow ",
+            "try to lick their own elbow ",
             "do 15 push-ups ",
             "do 20 sit-ups ",
             "spell the lastname of the person to your left ",
@@ -87,6 +87,7 @@
         ],
         "correct": []
     },
+    
     "brutal": {
         "questions": [
             {
