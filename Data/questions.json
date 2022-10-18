@@ -58,7 +58,7 @@
             "call a family member on your phone and ask how their day was ",
             "try to down his/her glass withouth using their hands ",
             "order a pizza ",
-            "do a TikTok dance or ",
+            "do a TikTok dance ",
             "go on Facebook and like 5 pictures of the first person you see ",
             "do the macarena ",
             "eat a bit of hot sauce ",
@@ -232,6 +232,7 @@
             "go on Facebook and like 5 pictures of the first person you see ",
             "do the macarena ",
             "eat a bit of hot sauce ",
+            "give a personalised insult to everyone in the room ",
             ""
         ],
         "correct": [
@@ -333,7 +334,9 @@
             "do a truth or dare ",
             "do your best twerk dance ",
             "show your favorite sex postion ",
-            "eat a piece of fruit in the most seducing manner "
+            "eat a piece of fruit in the most seducing manner ",
+            "pole dance with an imaginary pole "
+            
         ],
         "correct": [
             "take 3 sips.",
