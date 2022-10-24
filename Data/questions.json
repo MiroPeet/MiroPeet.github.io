@@ -52,36 +52,91 @@
             {
                 "question": "Who is the better driver?",
                 "id": "13"
+            },
+            {
+                "question": "Who spends the most time on their phone?",
+                "id": "14"
+            },
+            {
+                "question": "Who spends the most time in the bathroom?",
+                "id": "15"
+            },
+            {
+                "question": "Who smells the best?",
+                "id": "16"
+            },
+            {
+                "question": "Who is the most daring?",
+                "id": "17"
+            },
+            {
+                "question": "Who is the best student?",
+                "id": "18"
+            },
+            {
+                "question": "Who has the weirdest laugh?",
+                "id": "19"
+            },
+            {
+                "question": "Who has the healthiest lifestyle?",
+                "id": "20"
+            },
+            {
+                "question": "Who is more likely to hold a movie marathon?",
+                "id": "21"
+            },
+            {
+                "question": "Who binge watches the most series?",
+                "id": "22"
+            },
+            {
+                "question": "",
+                "id": "23"
+            },
+            {
+                "question": "",
+                "id": "24"
+            },
+            {
+                "question": "",
+                "id": "25"
+            },
+            {
+                "question": "",
+                "id": "26"
+            },
+            {
+                "question": "",
+                "id": "27"
             }
         ],
         "penalties": [
-            "call a family member on your phone and ask how their day was ",
-            "try to down his/her glass withouth using their hands ",
-            "order a pizza ",
-            "do a TikTok dance ",
-            "go on Facebook and like 5 pictures of the first person you see ",
-            "do the macarena ",
-            "eat a bit of hot sauce ",
-            "try to lick their own elbow ",
-            "do 15 push-ups ",
-            "do 20 sit-ups ",
-            "spell the lastname of the person to your left ",
-            "read the last text you send out loud ",
-            "do the plank for 1 minute ",
-            "tell the group one of your secrets ",
-            "do a handstand ",
-            "do a belly dance ",
-            "show the group last picture you took ",
-            "sing a song together ",
-            "let the winners change their name for the rest of the game ",
-            "share your drink with the winners ",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "call a family member on your phone and ask how their day was",
+            "try to down his/her glass withouth using their hands",
+            "order a pizza",
+            "do a TikTok dance",
+            "go on Facebook and like 5 pictures of the first person you see",
+            "do the macarena",
+            "eat a bit of hot sauce",
+            "try to lick their own elbow",
+            "do 15 push-ups",
+            "do 20 sit-ups",
+            "spell the lastname of the person to your left",
+            "read the last text you send out loud",
+            "do the plank for 1 minute",
+            "tell the group one of your secrets",
+            "do a handstand",
+            "do a belly dance",
+            "show the group last picture you took",
+            "sing a song together",
+            "share your drink with the winners",
+            "spin around 10 times",
+            "run around the block / house",
+            "jump like a kangaroe 15 times",
+            "sing a song as loud as you can",
+            "give out 6 sips",
+            "play a round of truth or dare with the loser group",
+            "do 5 jumpin jacks",
             "",
             "",
             "",
@@ -102,9 +157,7 @@
             "",
             "",
             ""
-
         ],
-
         "correct": [
             "take 3 sips.",
             "take 2 sips.",
@@ -112,7 +165,6 @@
             "take 4 sips."
         ]
     },
-
     "brutal": {
         "questions": [
             {
@@ -236,47 +288,139 @@
                 "id": "30"
             },
             {
-                "question": "",
+                "question": "Who is more short-tempered?",
                 "id": "31"
             },
             {
-                "question": "",
+                "question": "Who is going to have the best paid job?",
                 "id": "32"
             },
             {
-                "question": "",
+                "question": "Who is going to end as a housewife or houseman?",
                 "id": "33"
             },
             {
-                "question": "",
+                "question": "Who is going to have a child first?",
                 "id": "34"
             },
             {
-                "question": "",
+                "question": "Who is the best chef?",
                 "id": "35"
+            },
+            {
+                "question": "Who has the highest chance of becoming famous?",
+                "id": "36"
+            },
+            {
+                "question": "Who would be a good royalty?",
+                "id": "37"
+            },
+            {
+                "question": "Who would be a good CEO?",
+                "id": "38"
+            },
+            {
+                "question": "Who will be the first to marry?",
+                "id": "39"
+            },
+            {
+                "question": "Who is the best cook?",
+                "id": "40"
+            },
+            {
+                "question": "Who knows the most about computers?",
+                "id": "41"
+            },
+            {
+                "question": "Who spends the most time on Netflix?",
+                "id": "42"
+            },
+            {
+                "question": "Who spends the most time on TikTok?",
+                "id": "43"
+            },
+            {
+                "question": "Who spends the most time on Instagram?",
+                "id": "44"
+            },
+            {
+                "question": "Who is the slowest to reply on social media or text?",
+                "id": "45"
+            },
+            {
+                "question": "Who sends the most memes?",
+                "id": "46"
+            },
+            {
+                "question": "Who listens the most to spotify?",
+                "id": "47"
+            },
+            {
+                "question": "Who is the biggest mommy's child?",
+                "id": "48"
+            },
+            {
+                "question": "Who walks around with the most arrogance?",
+                "id": "49"
+            },
+            {
+                "question": "Who is the most spontaneous?",
+                "id": "50"
+            },
+            {
+                "question": "Who likes to plan everything?",
+                "id": "51"
+            },
+            {
+                "question": "Who would start a business with his best friend?",
+                "id": "52"
+            },
+            {
+                "question": "Who would live in a forest?",
+                "id": "53"
+            },
+            {
+                "question": "Who would go camping alone?",
+                "id": "54"
+            },
+            {
+                "question": "Who eats his own boogers?",
+                "id": "55"
+            },
+            {
+                "question": "Who is the best swimmer?",
+                "id": "56"
+            },
+            {
+                "question": "Who would go bungeejumping?",
+                "id": "57"
+            },
+            {
+                "question": "Who works the hardest?",
+                "id": "58"
             }
         ],
         "penalties": [
-            "lick someone on the cheek ",
-            "show their ass ",
-            "do a cartwheel ",
-            "give the person to your right a 'wet willy' ",
-            "lick someones armpit ",
-            "call a family member on your phone and ask how their day was ",
-            "try to down his/her glass withouth using their hands ",
-            "order a pizza ",
-            "do a TikTok dance or ",
-            "go on Facebook and like 5 pictures of the first person you see ",
-            "do the macarena ",
-            "eat a bit of hot sauce ",
-            "give a personalised insult to everyone in the room ",
-            "eat a spoonfull of mustard ",
-            "eat something without using your hands ",
+            "lick someone on the cheek",
+            "show their ass",
+            "do a cartwheel",
+            "give the person to your right a 'wet willy'",
+            "lick someones armpit",
+            "call a family member on your phone and ask how their day was",
+            "try to down his/her glass withouth using their hands",
+            "order a pizza",
+            "do a TikTok dance or",
+            "go on Facebook and like 5 pictures of the first person you see",
+            "do the macarena",
+            "eat a bit of hot sauce",
+            "give a personalised insult to everyone in the room",
+            "eat a spoonfull of mustard",
+            "eat something without using your hands",
             "take a shot of pickle juice",
-            "call your crush ",
-            "do a truth or dare with the group ",
-            "",
-            "",
+            "call your crush",
+            "do a truth or dare with the group",
+            "take 4 sips whilst doing a handstand",
+            "tell an embarrassing story",
             "",
             "",
             "",
@@ -339,7 +483,7 @@
                 "id": "5"
             },
             {
-                "question": "Wie heeft de zotste kink?",
+                "question": "Who has the dirtiest kinks?",
                 "id": "6"
             },
             {
@@ -397,34 +541,139 @@
             {
                 "question": "Who would do it in a church?",
                 "id": "21"
+            },
+            {
+                "question": "Who would be a good pornstar?",
+                "id": "22"
+            },
+            {
+                "question": "Who is going the longest without sex?",
+                "id": "23"
+            },
+            {
+                "question": "Who is the most flexible?",
+                "id": "24"
+            },
+            {
+                "question": "Who talks the most dirty in bed?",
+                "id": "25"
+            },
+            {
+                "question": "Who uses the most gadgets in bed?",
+                "id": "26"
+            },
+            {
+                "question": "Who would make the first move?",
+                "id": "27"
+            },
+            {
+                "question": "Who is the easiest to please?",
+                "id": "28"
+            },
+            {
+                "question": "Who would take pictures of their feet to make money?",
+                "id": "29"
+            },
+            {
+                "question": "Who has been friendzoned the most?",
+                "id": "30"
+            },
+            {
+                "question": "Who has had the worst sex experience?",
+                "id": "31"
+            },
+            {
+                "question": "Who dated the oldest person?",
+                "id": "32"
+            },
+            {
+                "question": "Who watches the most porn?",
+                "id": "33"
+            },
+            {
+                "question": "Who dated the youngest person?",
+                "id": "34"
+            },
+            {
+                "question": "Who would wear another person's underwear?",
+                "id": "35"
+            },
+            {
+                "question": "Who is more likely to send nudes?",
+                "id": "36"
+            },
+            {
+                "question": "Who is more likely to date someone from work?",
+                "id": "37"
+            },
+            {
+                "question": "Who smells his underwear?",
+                "id": "38"
+            },
+            {
+                "question": "Who would make a sextape?",
+                "id": "39"
+            },
+            {
+                "question": "Who would have sex on television?",
+                "id": "40"
+            },
+            {
+                "question": "Who would have sex to get a higher position a work?",
+                "id": "41"
+            },
+            {
+                "question": "Who likes to do it in the ass?",
+                "id": "42"
+            },
+            {
+                "question": "Who spends the most time on Tinder?",
+                "id": "43"
+            },
+            {
+                "question": "Who would be more likely to kiss someone of the same gender?",
+                "id": "44"
+            },
+            {
+                "question": "Who has the dirtiest fantasies?",
+                "id": "45"
+            },
+            {
+                "question": "Who is the loudest in bed?",
+                "id": "46"
+            },
+            {
+                "question": "Who gets the horniest when they start drinking?",
+                "id": "47"
             }
+
         ],
         "penalties": [
-            "take of 1 piece of clothing ",
-            "show a nipple ",
-            "kiss someone on the mouth ",
-            "do a truth or dare ",
-            "do your best twerk dance ",
-            "show your favorite sex postion ",
-            "eat a piece of fruit in the most seducing manner ",
-            "pole dance with an imaginary pole ",
-            "put some ice down your pants ",
-            "show the group your internet search history ",
-            "call an ex and tell them you miss them ",
-            "make out with the wall ",
-            "tell the group who your crush is ",
-            "tell the group your bodycount ",
-            "tell the group who you like the most of this group ",
-            "tell the group your craziest sex story ",
-            "change clothes with someone for the rest of the game ",
-            "imitate an orgasm  ",
-            "tell the group your kink ",
-            "make out with someone ",
-            "make an 'o' face ",
-            "take your pants off ",
-            "call someone and ask them for sex advice ",
-            "demonstrate your biggest turn-on ",
-            "",
+            "take of 1 piece of clothing",
+            "show a nipple",
+            "kiss someone on the mouth",
+            "do a truth or dare",
+            "do your best twerk dance",
+            "show your favorite sex postion",
+            "eat a piece of fruit in the most seducing manner",
+            "pole dance with an imaginary pole",
+            "put some ice down your pants",
+            "show the group your internet search history",
+            "call an ex and tell them you miss them",
+            "make out with the wall",
+            "tell the group who your crush is",
+            "tell the group your bodycount",
+            "tell the group who you like the most of this group",
+            "tell the group your craziest sex story",
+            "change clothes with someone for the rest of the game",
+            "imitate an orgasm",
+            "tell the group your kink",
+            "make out with someone",
+            "make an 'o' face",
+            "take your pants off",
+            "call someone and ask them for sex advice",
+            "demonstrate your biggest turn-on",
+            "do a bodyshot with someone of your choosing",
             "",
             "",
             "",
@@ -443,7 +692,6 @@
             "",
             "",
             ""
-            
         ],
         "correct": [
             "take 3 sips.",
