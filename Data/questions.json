@@ -239,17 +239,17 @@
             }
         ],
         "penalties": [
-            "call a family member on their phone and ask how their day was",
-            "try to down his/her glass withouth using their hands",
+            "call someone together and ask how their day was",
+            "try to down their glass withouth using their hands",
             "order a pizza",
             "do a TikTok dance together",
-            "go on Facebook and like 5 pictures of the first person you see",
+            "make fart noises with your armpit",
             "do the macarena",
             "eat a bit of hot sauce",
             "lick their elbow",
             "do 15 push-ups",
             "do 20 sit-ups",
-            "spell the lastname of the person to their left",
+            "act like a chicken",
             "read the last text you send out loud",
             "do the plank for 1 minute",
             "tell the group one of their secrets",
@@ -257,20 +257,19 @@
             "do a belly dance",
             "show the group the last picture you took",
             "sing a song together",
-            "share their drink with the winners",
-            "spin around 10 times",
+            "eat a chili pepper",
+            "eat a spider web",
             "run around the block / house",
             "jump like a kangaroo 15 times",
             "sing a song as loud as you can",
             "give out 6 sips",
-            "play a round of truth or dare with the loser group",
-            "do 5 jumpin jacks",
+            "do a shot",
+            "do 10 jumpin jacks",
             "give away 3 sips",
             "give away 2 sips",
             "give away 1 sip",
             "give away 4 sips",
             "walk around the room like a goose"
-
         ],
         "correct": [
             "take 3 sips.",
@@ -528,13 +527,21 @@
             {
                 "question": "Who is the most jealous?",
                 "id": "63"
+            },
+            {
+                "question": "Who is the messiest?",
+                "id": "64"
+            },
+            {
+                "question": "Who is always late?",
+                "id": "65"
             }
         ],
         "penalties": [
             "lick someone on the cheek",
             "show their ass",
             "do a cartwheel",
-            "give the person to their right a 'wet willy'",
+            "act like a chicken",
             "lick someones armpit",
             "call a family member on their phone and ask how their day was",
             "try to down his/her glass withouth using their hands",
@@ -543,11 +550,11 @@
             "go on Facebook and like 5 pictures of the first person you see",
             "do the macarena",
             "eat a bit of hot sauce",
-            "give a personalised insult to everyone in the room",
+            "take a shot",
             "eat a spoonfull of mustard",
             "eat something without using their hands",
             "take a shot of pickle juice",
-            "call their crush and ask them out",
+            "spin around 10 times and immediatly take 2 sips",
             "do a truth or dare with the group",
             "take 4 sips whilst doing a handstand",
             "tell an embarrassing story",
@@ -562,9 +569,9 @@
             "take a selfie with an animal",
             "walk around the room like a goose",
             "let the winners draw something on your face",
-            "say 8 car brands",
-            "make a poem or a rap about the winners",
-            "eat something without using their hands"
+            "tell the group their biggest fear",
+            "make a poem or a rap about the winners excisting of 10 bars",
+            ""
         ],
         "correct": [
             "take 4 sips.",
@@ -768,10 +775,14 @@
             {
                 "question": "Who is the most jealous?",
                 "id": "49"
+            },
+            {
+                "question": "Who is the most insecure?",
+                "id": "50"
             }
         ],
         "penalties": [
-            "take of 1 piece of clothing",
+            "take of a piece of clothing",
             "show a nipple",
             "kiss someone on the mouth",
             "do a truth or dare",
@@ -781,13 +792,13 @@
             "pole dance with an imaginary pole",
             "put some ice down their pants",
             "show the group their internet search history",
-            "call an ex and tell them you miss them",
+            "tell the group their biggest turn- on",
             "make out with the wall",
             "tell the group who their crush is",
             "tell the group their bodycount",
-            "tell the group who you like the most of this group",
+            "rate themself based on looks",
             "tell the group their craziest sex story",
-            "change clothes with someone for the rest of the game",
+            "tell the group if you ever had sex in public",
             "imitate an orgasm",
             "tell the group their kink",
             "make an 'o' face",
