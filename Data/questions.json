@@ -86,32 +86,160 @@
                 "id": "21"
             },
             {
-                "question": "Who binge watches the most series?",
+                "question": "Who is the least scared?",
                 "id": "22"
             },
             {
-                "question": "",
+                "question": "Who would win in a boxingmatch?",
                 "id": "23"
             },
             {
-                "question": "",
+                "question": "Who would most likely cry during an emotional movie?",
                 "id": "24"
             },
             {
-                "question": "",
+                "question": "Who is, or was, the laziest student?",
                 "id": "25"
             },
             {
-                "question": "",
+                "question": "Who eats the most vegetables?",
                 "id": "26"
             },
             {
-                "question": "",
+                "question": "Who has the funnier laugh?",
                 "id": "27"
+            },
+            {
+                "question": "Who can drink the most?",
+                "id": "28"
+            },
+            {
+                "question": "Who gets drunk the fastest?",
+                "id": "29"
+            },
+            {
+                "question": "Who eats the most fast food?",
+                "id": "30"
+            },
+            {
+                "question": "Who is more short-tempered?",
+                "id": "31"
+            },
+            {
+                "question": "Who is going to have the best paid job?",
+                "id": "32"
+            },
+            {
+                "question": "Who is going to end as a housewife or houseman?",
+                "id": "33"
+            },
+            {
+                "question": "Who is going to have a child first?",
+                "id": "34"
+            },
+            {
+                "question": "Who is the best chef?",
+                "id": "35"
+            },
+            {
+                "question": "Who has the highest chance of becoming famous?",
+                "id": "36"
+            },
+            {
+                "question": "Who would be a good royalty?",
+                "id": "37"
+            },
+            {
+                "question": "Who would be a good CEO?",
+                "id": "38"
+            },
+            {
+                "question": "Who will be the first to marry?",
+                "id": "39"
+            },
+            {
+                "question": "Who is the best cook?",
+                "id": "40"
+            },
+            {
+                "question": "Who knows the most about computers?",
+                "id": "41"
+            },
+            {
+                "question": "Who spends the most time on Netflix?",
+                "id": "42"
+            },
+            {
+                "question": "Who spends the most time on TikTok?",
+                "id": "43"
+            },
+            {
+                "question": "Who spends the most time on Instagram?",
+                "id": "44"
+            },
+            {
+                "question": "Who is the slowest to reply on social media or text?",
+                "id": "45"
+            },
+            {
+                "question": "Who sends the most memes?",
+                "id": "46"
+            },
+            {
+                "question": "Who listens the most to spotify?",
+                "id": "47"
+            },
+            {
+                "question": "Who is the biggest mommy's child?",
+                "id": "48"
+            },
+            {
+                "question": "Who walks around with the most arrogance?",
+                "id": "49"
+            },
+            {
+                "question": "Who is the most spontaneous?",
+                "id": "50"
+            },
+            {
+                "question": "Who likes to plan everything?",
+                "id": "51"
+            },
+            {
+                "question": "Who would start a business with his best friend?",
+                "id": "52"
+            },
+            {
+                "question": "Who would live in a forest?",
+                "id": "53"
+            },
+            {
+                "question": "Who would go camping alone?",
+                "id": "54"
+            },
+            {
+                "question": "Who eats his own boogers?",
+                "id": "55"
+            },
+            {
+                "question": "Who is the best swimmer?",
+                "id": "56"
+            },
+            {
+                "question": "Who would go bungeejumping?",
+                "id": "57"
+            },
+            {
+                "question": "Who works the hardest?",
+                "id": "58"
+            },
+            {
+                "question": "Who binge watches the most series?",
+                "id": "59"
             }
         ],
         "penalties": [
-            "call a family member on your phone and ask how their day was",
+            "call a family member on their phone and ask how their day was",
             "try to down his/her glass withouth using their hands",
             "order a pizza",
             "do a TikTok dance",
@@ -121,22 +249,28 @@
             "try to lick their own elbow",
             "do 15 push-ups",
             "do 20 sit-ups",
-            "spell the lastname of the person to your left",
+            "spell the lastname of the person to their left",
             "read the last text you send out loud",
             "do the plank for 1 minute",
-            "tell the group one of your secrets",
+            "tell the group one of their secrets",
             "do a handstand",
             "do a belly dance",
             "show the group last picture you took",
             "sing a song together",
-            "share your drink with the winners",
+            "share their drink with the winners",
             "spin around 10 times",
             "run around the block / house",
             "jump like a kangaroe 15 times",
             "sing a song as loud as you can",
             "give out 6 sips",
             "play a round of truth or dare with the loser group",
-            "do 5 jumpin jacks"
+            "do 5 jumpin jacks",
+            "give away 3 sips",
+            "give away 2 sips",
+            "give away 1 sip",
+            "give away 4 sips",
+            "walk around the room like a goose"
+
         ],
         "correct": [
             "take 3 sips.",
@@ -378,15 +512,267 @@
             {
                 "question": "Who works the hardest?",
                 "id": "58"
+            },
+            {
+                "question": "Who is the most polite?",
+                "id": "60"
+            },
+            {
+                "question": "Who would panic in stressfull situations?",
+                "id": "61"
+            },
+            {
+                "question": "Who is more open about personal stuff?",
+                "id": "62"
+            },
+            {
+                "question": "Who is the most jealous?",
+                "id": "63"
+            },
+            {
+                "question": "",
+                "id": "64"
+            },
+            {
+                "question": "",
+                "id": "65"
+            },
+            {
+                "question": "",
+                "id": "66"
+            },
+            {
+                "question": "",
+                "id": "66"
+            },
+            {
+                "question": "",
+                "id": "67"
+            },
+            {
+                "question": "",
+                "id": "68"
+            },
+            {
+                "question": "",
+                "id": "69"
+            },
+            {
+                "question": "",
+                "id": "70"
+            },
+            {
+                "question": "",
+                "id": "71"
+            },
+            {
+                "question": "",
+                "id": "72"
+            },
+            {
+                "question": "",
+                "id": "73"
+            },
+            {
+                "question": "",
+                "id": "74"
+            },
+            {
+                "question": "",
+                "id": "75"
+            },
+            {
+                "question": "",
+                "id": "76"
+            },
+            {
+                "question": "",
+                "id": "77"
+            },
+            {
+                "question": "",
+                "id": "78"
+            },
+            {
+                "question": "",
+                "id": "79"
+            },
+            {
+                "question": "",
+                "id": "80"
+            },
+            {
+                "question": "",
+                "id": "81"
+            },
+            {
+                "question": "",
+                "id": "82"
+            },
+            {
+                "question": "",
+                "id": "83"
+            },
+            {
+                "question": "",
+                "id": "84"
+            },
+            {
+                "question": "",
+                "id": "85"
+            },
+            {
+                "question": "",
+                "id": "86"
+            },
+            {
+                "question": "",
+                "id": "87"
+            },
+            {
+                "question": "",
+                "id": "88"
+            },
+            {
+                "question": "",
+                "id": "89"
+            },
+            {
+                "question": "",
+                "id": "90"
+            },
+            {
+                "question": "",
+                "id": "91"
+            },
+            {
+                "question": "",
+                "id": "92"
+            },
+            {
+                "question": "",
+                "id": "93"
+            },
+            {
+                "question": "",
+                "id": "94"
+            },
+            {
+                "question": "",
+                "id": "95"
+            },
+            {
+                "question": "",
+                "id": "96"
+            },
+            {
+                "question": "",
+                "id": "97"
+            },
+            {
+                "question": "",
+                "id": "98"
+            },
+            {
+                "question": "",
+                "id": "99"
+            },
+            {
+                "question": "",
+                "id": "100"
+            },
+            {
+                "question": "",
+                "id": "101"
+            },
+            {
+                "question": "",
+                "id": "101"
+            },
+            {
+                "question": "",
+                "id": "102"
+            },
+            {
+                "question": "",
+                "id": "103"
+            },
+            {
+                "question": "",
+                "id": "104"
+            },
+            {
+                "question": "",
+                "id": "105"
+            },
+            {
+                "question": "",
+                "id": "106"
+            },
+            {
+                "question": "",
+                "id": "107"
+            },
+            {
+                "question": "",
+                "id": "108"
+            },
+            {
+                "question": "",
+                "id": "109"
+            },
+            {
+                "question": "",
+                "id": "110"
+            },
+            {
+                "question": "",
+                "id": "111"
+            },
+            {
+                "question": "",
+                "id": "112"
+            },
+            {
+                "question": "",
+                "id": "113"
+            },
+            {
+                "question": "",
+                "id": "114"
+            },
+            {
+                "question": "",
+                "id": "115"
+            },
+            {
+                "question": "",
+                "id": "116"
+            },
+            {
+                "question": "",
+                "id": "117"
+            },
+            {
+                "question": "",
+                "id": "118"
+            },
+            {
+                "question": "",
+                "id": "119"
+            },
+            {
+                "question": "",
+                "id": "120"
             }
         ],
         "penalties": [
             "lick someone on the cheek",
             "show their ass",
             "do a cartwheel",
-            "give the person to your right a 'wet willy'",
+            "give the person to their right a 'wet willy'",
             "lick someones armpit",
-            "call a family member on your phone and ask how their day was",
+            "call a family member on their phone and ask how their day was",
             "try to down his/her glass withouth using their hands",
             "order a pizza",
             "do a TikTok dance or",
@@ -395,12 +781,48 @@
             "eat a bit of hot sauce",
             "give a personalised insult to everyone in the room",
             "eat a spoonfull of mustard",
-            "eat something without using your hands",
+            "eat something without using their hands",
             "take a shot of pickle juice",
-            "call your crush",
+            "call their crush and ask them out",
             "do a truth or dare with the group",
             "take 4 sips whilst doing a handstand",
-            "tell an embarrassing story"
+            "tell an embarrassing story",
+            "touch their toes standing up",
+            "give away 3 sips",
+            "give away 2 sips",
+            "give away 1 sip",
+            "give away 4 sips",
+            "show everyone their biceps",
+            "give each other a true compliment",
+            "eat a slice of a lemon",
+            "take a selfie with an animal",
+            "walk around the room like a goose",
+            "let the winners draw something on your face",
+            "say 8 car brands",
+            "make a poem or a rap about the winners",
+            "eat something without using their hands",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "correct": [
             "take 4 sips.",
@@ -596,7 +1018,304 @@
             {
                 "question": "Who gets the horniest when they start drinking?",
                 "id": "47"
+            },
+            {
+                "question": "Who is the biggest mommy's kid?",
+                "id": "48"
+            },
+            {
+                "question": "Who is the most jealous?",
+                "id": "49"
+            },
+            {
+                "question": "",
+                "id": "50"
+            },
+            {
+                "question": "",
+                "id": "51"
+            },
+            {
+                "question": "",
+                "id": "52"
+            },
+            {
+                "question": "",
+                "id": "53"
+            },
+            {
+                "question": "",
+                "id": "54"
+            },
+            {
+                "question": "",
+                "id": "55"
+            },
+            {
+                "question": "",
+                "id": "56"
+            },
+            {
+                "question": "",
+                "id": "57"
+            },
+            {
+                "question": "",
+                "id": "58"
+            },
+            {
+                "question": "",
+                "id": "60"
+            },
+            {
+                "question": "",
+                "id": "61"
+            },
+            {
+                "question": "",
+                "id": "62"
+            },
+            {
+                "question": "",
+                "id": "63"
+            },
+            {
+                "question": "",
+                "id": "64"
+            },
+            {
+                "question": "",
+                "id": "65"
+            },
+            {
+                "question": "",
+                "id": "66"
+            },
+            {
+                "question": "",
+                "id": "66"
+            },
+            {
+                "question": "",
+                "id": "67"
+            },
+            {
+                "question": "",
+                "id": "68"
+            },
+            {
+                "question": "",
+                "id": "69"
+            },
+            {
+                "question": "",
+                "id": "70"
+            },
+            {
+                "question": "",
+                "id": "71"
+            },
+            {
+                "question": "",
+                "id": "72"
+            },
+            {
+                "question": "",
+                "id": "73"
+            },
+            {
+                "question": "",
+                "id": "74"
+            },
+            {
+                "question": "",
+                "id": "75"
+            },
+            {
+                "question": "",
+                "id": "76"
+            },
+            {
+                "question": "",
+                "id": "77"
+            },
+            {
+                "question": "",
+                "id": "78"
+            },
+            {
+                "question": "",
+                "id": "79"
+            },
+            {
+                "question": "",
+                "id": "80"
+            },
+            {
+                "question": "",
+                "id": "81"
+            },
+            {
+                "question": "",
+                "id": "82"
+            },
+            {
+                "question": "",
+                "id": "83"
+            },
+            {
+                "question": "",
+                "id": "84"
+            },
+            {
+                "question": "",
+                "id": "85"
+            },
+            {
+                "question": "",
+                "id": "86"
+            },
+            {
+                "question": "",
+                "id": "87"
+            },
+            {
+                "question": "",
+                "id": "88"
+            },
+            {
+                "question": "",
+                "id": "89"
+            },
+            {
+                "question": "",
+                "id": "90"
+            },
+            {
+                "question": "",
+                "id": "91"
+            },
+            {
+                "question": "",
+                "id": "92"
+            },
+            {
+                "question": "",
+                "id": "93"
+            },
+            {
+                "question": "",
+                "id": "94"
+            },
+            {
+                "question": "",
+                "id": "95"
+            },
+            {
+                "question": "",
+                "id": "96"
+            },
+            {
+                "question": "",
+                "id": "97"
+            },
+            {
+                "question": "",
+                "id": "98"
+            },
+            {
+                "question": "",
+                "id": "99"
+            },
+            {
+                "question": "",
+                "id": "100"
+            },
+            {
+                "question": "",
+                "id": "101"
+            },
+            {
+                "question": "",
+                "id": "101"
+            },
+            {
+                "question": "",
+                "id": "102"
+            },
+            {
+                "question": "",
+                "id": "103"
+            },
+            {
+                "question": "",
+                "id": "104"
+            },
+            {
+                "question": "",
+                "id": "105"
+            },
+            {
+                "question": "",
+                "id": "106"
+            },
+            {
+                "question": "",
+                "id": "107"
+            },
+            {
+                "question": "",
+                "id": "108"
+            },
+            {
+                "question": "",
+                "id": "109"
+            },
+            {
+                "question": "",
+                "id": "110"
+            },
+            {
+                "question": "",
+                "id": "111"
+            },
+            {
+                "question": "",
+                "id": "112"
+            },
+            {
+                "question": "",
+                "id": "113"
+            },
+            {
+                "question": "",
+                "id": "114"
+            },
+            {
+                "question": "",
+                "id": "115"
+            },
+            {
+                "question": "",
+                "id": "116"
+            },
+            {
+                "question": "",
+                "id": "117"
+            },
+            {
+                "question": "",
+                "id": "118"
+            },
+            {
+                "question": "",
+                "id": "119"
+            },
+            {
+                "question": "",
+                "id": "120"
             }
+
 
         ],
         "penalties": [
@@ -604,27 +1323,55 @@
             "show a nipple",
             "kiss someone on the mouth",
             "do a truth or dare",
-            "do your best twerk dance",
-            "show your favorite sex postion",
+            "do their best twerk dance",
+            "show their favorite sex postion",
             "eat a piece of fruit in the most seducing manner",
             "pole dance with an imaginary pole",
-            "put some ice down your pants",
-            "show the group your internet search history",
+            "put some ice down their pants",
+            "show the group their internet search history",
             "call an ex and tell them you miss them",
             "make out with the wall",
-            "tell the group who your crush is",
-            "tell the group your bodycount",
+            "tell the group who their crush is",
+            "tell the group their bodycount",
             "tell the group who you like the most of this group",
-            "tell the group your craziest sex story",
+            "tell the group their craziest sex story",
             "change clothes with someone for the rest of the game",
             "imitate an orgasm",
-            "tell the group your kink",
-            "make out with someone",
+            "tell the group their kink",
             "make an 'o' face",
-            "take your pants off",
+            "take their pants off",
             "call someone and ask them for sex advice",
-            "demonstrate your biggest turn-on",
-            "do a bodyshot with someone of your choosing"
+            "demonstrate their biggest turn-on",
+            "do a bodyshot with someone of their choosing",
+            "show their underwear",
+            "smell their own sock",
+            "take off their pants for the rest of the game",
+            "kiss someone in the nek",
+            "tell the group the last time you had sex",
+            "show everyone their last tinder match",
+            "tell an embarrassing story",
+            "tell the group one of their secrets",
+            "tell the group their drunkest story",
+            "give away 3 sips",
+            "give away 2 sips",
+            "give away 1 sip",
+            "give away 4 sips",
+            "do the wurm on the floor",
+            "give each other a true compliment",
+            "spin around for 20 seconds",
+            "do a belly dance",
+            "down a glass of water",
+            "let the winners draw something on your face",
+            "walk around the room like a goose",
+            "tell the group the color of your underwear",
+            "tell the group if you ever had a crush on a teacher",
+            "tell the group if you ever sent a naked picture",
+            "tell the group if you ever received a naked picture",
+            "show their feet",
+            "make a sexy group selfie",
+            "kiss one person of the group",
+            "tell the group what kind of porn they watch",
+            "send the drooling emoji to their ex"
         ],
         "correct": [
             "take 3 sips.",
